@@ -1,3 +1,2 @@
-28 de octubre 2026: Tema ramas
-Practicar comandos
-30 octubre: Se trabaja numpy
+28 de octubre: Se trabajó el tema de ramas
+30 octubre: Se trabajó Numpy
