@@ -1,2 +1,3 @@
 28 de octubre: Se trabajó el tema de ramas
-30 octubre: Se trabajó Numpy
+30 de octubre: Se trabajó Numpy
+4 de Noviembre: Se trabajó Pandas
