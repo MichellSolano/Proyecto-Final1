@@ -1,1 +1,2 @@
 30 de octubre: Recordamos y trabajamos Numpy 
+4 de noviembre: Se trabajó con pandas, DataFrame y diferentes funciones.
