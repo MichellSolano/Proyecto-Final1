@@ -1,3 +1,7 @@
-28 de octubre: Se trabajó el tema de ramas
-30 de octubre: Se trabajó Numpy
-4 de Noviembre: Se trabajó Pandas
+28 de Octubre: Se trabajó el tema de ramas, como crearla, cambiar y eliminar, ademas cuando realizar merge.
+
+30 de Octubre: Se trabajó la librería Numpy, como crear arreglos de este tipo, indexación, filtrar datos (Mascaras booleanas), operaciones y operadores lógicos. 
+
+4 de Noviembre: Se trabajó la librería Pandas, que es DataFrame, serie, índice, que permite saber el comando shape, head, info y describe, filtrar filas, realizar limpieza de datos faltantes y duplicados, algunas funciones como groupby.
+
+11 de Noviembre: Se trabajó la librería Matplotlib y su módulo pyplot, tipos de graficas que podemos realizar, partes básicas de la grafica, comandos para editarla, cual utilizar de acuerdo a lo que se quiere evaluar, subgraficas y como guárdalas.
