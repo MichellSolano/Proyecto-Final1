@@ -4,4 +4,4 @@
 
 4 de Noviembre: Se trabajó la librería Pandas, que es DataFrame, serie, índice, que permite saber el comando shape, head, info y describe, filtrar filas, realizar limpieza de datos faltantes y duplicados, algunas funciones como groupby.
 
-11 de Noviembre: Se trabajó la librería Matplotlib y su módulo pyplot, tipos de graficas que podemos realizar, partes básicas de la grafica, comandos para editarla, cual utilizar de acuerdo a lo que se quiere evaluar, subgraficas y como guárdalas.
+11 de Noviembre: Se trabajó la librería Matplotlib y su módulo pyplot, tipos de graficas que se pueden realizar, partes básicas de la grafica, comandos para editarla, cual utilizar de acuerdo a lo que se quiere evaluar, subgraficas y como guárdalas.
