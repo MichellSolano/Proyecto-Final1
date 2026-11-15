@@ -1,2 +1,4 @@
 30 de octubre: Recordamos y trabajamos Numpy 
 4 de noviembre: Se trabajó con pandas, DataFrame y diferentes funciones.
+11 de noviembre: Ese día trabajamos con la librería Matplotlib, realizamos varios ejemplos para entender cada función que esta librería posee.
+13 de noviembre: Ese día, toda la clase fue sobre el proyecto final, el como se debía hacer y el docente nos verifico nuestras bases para poder comenzar a realizar nuestros trabajos.
