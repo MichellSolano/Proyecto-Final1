@@ -7,3 +7,5 @@
 11 de Noviembre: Se trabajó la librería Matplotlib y su módulo pyplot, tipos de graficas que se pueden realizar, partes básicas de la grafica, comandos para editarla, cual utilizar de acuerdo a lo que se quiere evaluar, subgraficas y como guárdalas.
 
 13 de Noviembre: Se trabajó en la elaboración del proyecto final, específicamente la elección de bases de datos, avaladas por el docente para llevar a cabo el trabajo.
+
+18 de Noviembre: Se continuó trabajando en el proyecto final, y el profesor resolvió dudas en clase.
