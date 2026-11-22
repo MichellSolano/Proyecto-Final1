@@ -3,3 +3,4 @@
 11 de noviembre: Ese día trabajamos con la librería Matplotlib, realizamos varios ejemplos para entender cada función que esta librería posee.
 13 de noviembre: Ese día, toda la clase fue sobre el proyecto final, el como se debía hacer y el docente nos verifico nuestras bases para poder comenzar a realizar nuestros trabajos.
 18 de noviembre: Continuamos trabajando sobre la primera entrega del proyecto final, comentándole las dudas que tuviéramos al docente para su resolución de estas. 
+20 de noviembre: Se realizó el tercer parcial. 
